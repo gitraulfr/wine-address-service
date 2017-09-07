@@ -1,4 +1,4 @@
-package com.ecommerce.wine;
+package com.ecommerce.wine.address;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
